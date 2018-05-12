@@ -1,0 +1,46 @@
+_repo: Mary-Help-of-Christians-and-the-Fourteen-Saints-Invoked-as-Holy-Helpers--13-Instructions-Nove__33596
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Hammer, Bonaventure
+    aliases:
+    - Hammer, B. (Bonaventure)
+    - Hammer, Bonaventura
+    birthdate: 1842
+    deathdate: 1917
+    gutenberg_agent_id: '36489'
+    url: http://www.gutenberg.org/2009/agents/36489
+  contributor:
+    agent_name: Burke, John J. (John James)
+    alias: Burke, J. J. (John James)
+    birthdate: 1857
+    deathdate: 1945
+    gutenberg_agent_id: '36488'
+    url: http://www.gutenberg.org/2009/agents/36488
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2010-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33596'
+  lccn: 09017339
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mary, Blessed Virgin, Saint -- Prayers and devotions'
+- !lcc 'BX'
+- !lcsh 'Catholic Church -- Customs and practices'
+- !lcsh 'Christian saints -- Prayers and devotions'
+- !lcsh 'Christian saints -- Cult'
+- !lcsh 'Sacramentals'
+- !lcsh 'Sacraments -- Catholic Church'
+- !lcsh 'Catholic Church -- Prayers and devotions'
+title: "Mary, Help of Christians, and the Fourteen Saints Invoked as Holy Helpers\r\
+  \nInstructions, Novenas and Prayers with Thoughts of the Saints for Every Day in\
+  \ the Year; To Which is Added an Appendix on the Reasonableness of Catholic Ceremonies\
+  \ and Practices"
+url: http://www.gutenberg.org/ebooks/33596
